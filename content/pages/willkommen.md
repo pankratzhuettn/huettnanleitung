@@ -1,7 +1,7 @@
 ---
 title: "Willkommen"
 draft: false
-weight: 100
+weight: 1
 ---
 
 # Willkommen auf der Hüttn!

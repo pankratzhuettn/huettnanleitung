@@ -1,6 +1,7 @@
 ---
 title: "Anleitung"
 draft: false
+weight: 2
 ---
 
 ### Ankommen auf der Hüttn
