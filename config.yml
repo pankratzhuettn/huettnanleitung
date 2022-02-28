@@ -1,0 +1,49 @@
+languageCode: 'de-de'
+title: 'Hüttnanleitung'
+theme: "hugo-PaperMod"
+baseURL: "https://pankratzhuettn.github.io/huettnanleitung"
+canonifyURLs: true
+params:
+  ShowBreadCrumbs: true
+  profileMode:
+    enabled: true
+    title: Willkommen
+    subtitle: Willkommen auf eurer Pankratzhüttn
+    imageUrl: img/blickinstal.jpg
+    imageWidth: 50%
+    imageHeight: 50%
+    buttons:
+    - identifier: vorwort
+      name: Auf ein Wort
+      url: vorwort
+      weight: 1
+    - identifier: ankommen
+      name: Ankommen
+      url: ankommen
+      weight: 2
+    - identifier: wohnen
+      name: Wohnen
+      url: wohnen
+      weight: 3
+    - identifier: werkln
+      name: Werkln
+      url: werkln
+      weight: 4
+    - identifier: abreisen
+      name: Abreisen
+      url: abreisen
+      weight: 5
+    - identifier: tipps
+      name: Tipps und Checklisten
+      url: tipps
+      weight: 6
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+menu:
+  main:
+    - identi"fier: suche
+      name: Suche
+      url: suche
