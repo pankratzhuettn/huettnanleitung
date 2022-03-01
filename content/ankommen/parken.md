@@ -11,18 +11,10 @@ Bei Ankunft ist es kein Problem, die Fahrzeuge zum Entladen kurzzeitig (15-30 Mi
 
 Nach dem Ausräumen müssen die Fahrzeuge auf folgende Parkflächen verräumt werden:
 
+Von Frühling bis Herbst ist das Parken in der Haltebucht (siehe Bild) erlaubt.
 
+{{<expander "Parkbucht im Sommer" "/img/parkbucht-sommer.jpg">}}
 
-{{< rawhtml >}}
-<details>
-  <summary>Von Frühling bis Herbst ist das Parken in der Haltebucht (siehe Bild) erlaubt.</summary>
-{{< /rawhtml >}}
-
-![Parkbucht im Sommer](/img/parkbucht-sommer.jpg)
-
-{{< rawhtml >}}
-</details>
-{{< /rawhtml >}}
 
 >Es ist unbedingt auf den Wetterbericht zu achten. Sobald es auch nur den Anschein hat, dass es schneien könnte, ist das Parken in der Haltebucht bei Strafe verboten!
 
