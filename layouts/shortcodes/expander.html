@@ -1,9 +1,11 @@
 {{ $summary := .Get 0 }}
 {{ $content := .Get 1 }}
-<details class="expander">
-    <summary>Bild: {{$summary}}</summary>
-    <img src="{{$content}}" class="modal-image"></img>
-    <div class="modal">
-        <img class="modal-content">
-    </div>
-</details>
+<div class="toc">
+    <details class="expander">
+        <summary>Bild: {{$summary}}</summary>
+        <img src="{{$content}}" class="modal-image"></img>
+        <div class="modal">
+            <img class="modal-content">
+        </div>
+    </details>
+</div>
