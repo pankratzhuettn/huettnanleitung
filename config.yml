@@ -44,6 +44,6 @@ outputs:
     - JSON # is necessary
 menu:
   main:
-    - identi"fier: suche
+    - identifier: suche
       name: Suche
       url: suche
