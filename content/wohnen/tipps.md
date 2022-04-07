@@ -1,7 +1,7 @@
 ---
 title: "Tipps"
 draft: false
-weight: 5
+weight: 8
 ---
 
 ## Müll
