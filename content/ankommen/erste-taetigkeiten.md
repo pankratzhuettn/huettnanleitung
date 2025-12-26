@@ -6,10 +6,10 @@ weight: 3
 ---
 ## Türen auf
 
-Der Hüttenschlüssel liegt unterm Stein am Eingang. 
+Der Hüttenschlüssel ist in einem Schlüsselsafe mit Zahlencode neben der Tür - den Code gibts von den Hütterern.
 >Der Schlüssel ist abzuziehen und unter den Spiegel zu hängen
 
-{{<expander "Hüttenschlüssel" "/img/tueren-auf-stein.png">}}
+{{<expander "Hüttenschlüssel" "/img/schluesselkasten.jpeg">}}
 
 Die Türe zur Terrasse ist sofort aufzusperren. Der Schlüssel bleibt stecken.
 >Dies ist notwendig, um ggf. Fluchtwege sicherzustellen

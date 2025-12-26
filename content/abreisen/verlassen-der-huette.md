@@ -20,5 +20,5 @@ Der Zaun an der Terrasse und das Türl vorne bleibt im Winter geöffnet. Im Somm
 * Dabei ist ein kurzer Blick hinaus wichtig. Ist alles aufgeräumt?
 * Die Türen zur Terrasse verriegeln und absperren. Der Schlüssel bleibt stecken
 * Dabei ist ein kurzer Blick hinaus wichtig. Ist alles aufgeräumt?
-* Zu guter Letzt die Hüttentüre schließen und den Schlüssel unter den Stein legen
+* Zu guter Letzt die Hüttentüre schließen und den Schlüssel in den Safe hängen
 * Vorher nochmal an alle Beteiligten: Habt ihr Alles? (Handy, Autoschlüssel, Geldbeutel..)
