@@ -9,7 +9,7 @@ showToc: true
 
 ### Sommerbetrieb
 
-Während der Sommermonate ist die ABN nicht schwer durchzuführen, sollte aber dennoch mit Sorgfalt erfolgen. Das Wasser verbleibt in der Wasserinstallation. Es wird zur Sicherheit nur der Versorgungshahn geschlossen und nur kurz ein Wasserhahn geöffnet um den Druck abzulassen.
+Während der Sommermonate ist die Außerbetriebnahme nicht schwer durchzuführen, sollte aber dennoch mit Sorgfalt erfolgen. Das Wasser verbleibt in der Wasserinstallation. Es wird zur Sicherheit nur der Versorgungshahn geschlossen und nur kurz ein Wasserhahn geöffnet um den Druck abzulassen.
 
 Das Manometer zeigt bei geschlossenem Versorgungshahn und nach Druckablassen 0 Bar an.
 
@@ -66,7 +66,7 @@ Die Wasserinstallation ist jetzt leer und es muss nur noch gesalzt werden.
 * Bitte darauf achten, dass für die Toilette noch ca. die Hälfte der Lake zur Verfügung steht.
 * Den Eimer wieder zurück an den Entleerungshahn hängen und sicherstellen, dass der Hahn geöffnet ist.
 
-Anschließend, nachdem die ABN Wasser abgeschlossen und alles entleert ist, ist noch eine wichtige Prüfung/ Einstellung zu erledigen. Dazu brauchts ein „Händchen“!
+Anschließend, nachdem die Außerbetriebnahme Wasser abgeschlossen und alles entleert ist, ist noch eine wichtige Prüfung/ Einstellung zu erledigen. Dazu brauchts ein „Händchen“!
 
 Kontrolle des Bypassventils und der Durchflussmenge - Das Bypassventil stellt sicher, dass immer Wasser durch die Versorgungsleitung fließt. Ansonsten friert die Versorgungsleitung ein.
 
