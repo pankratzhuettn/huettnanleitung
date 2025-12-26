@@ -257,7 +257,9 @@ Erst einmal werden keine unnötigen Müllquellen mitgenommen! Also lasst euer Do
 
 **Im Sommer:**
 
-Legt eure zu kühlenden Getränke in den Trog. Achtung! Tetrapacks weichen mit der Zeit auf!
+Legt eure zu kühlenden Getränke in den Trog. 
+
+>Achtung! Tetrapacks weichen mit der Zeit auf!
 
 Überfüllt den Trog nicht, da sonst die Kühlleistung nachlässt.
 
