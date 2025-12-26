@@ -7,7 +7,7 @@ showToc: true
 
 ## Bad
 
-* WC so putzen, dass es glänzt und keinerlei Spritzer mehr vorhanden sind. Auch Außen! Die Klobürste ist sauber und der Klobürstenhalter leer und sauber. Verwendet dazu Putzmittel!!
+* WC so putzen, dass es glänzt und keinerlei Spritzer mehr vorhanden sind. Auch Außen! Die Klobürste ist sauber und der Klobürstenhalter leer und sauber. Verwendet dazu Putzmittel!
 * Die Dusche ist mit Putzmittel INNEN und AUSSEN zu putzen und nachzureiben
 * Der Waschtisch ist mit Putzmittel zu putzen, auch außenherum und nachzureiben
 * Die Zahnpastaflecken an der Wand und auf den Ablagen sind zu entfernen
@@ -16,7 +16,7 @@ showToc: true
 * Der Ofen ist rauszukehren und das Aschefach zu leeren
 * Das Bad muss rausgewischt werden. Auch hinter dem Ofen und unterm Schrank
 
->Das Bad ist blitzeblank sauber wenn ihr die Hütte verlässt!!
+>Das Bad ist blitzeblank sauber wenn ihr die Hütte verlasst!
 >
 >Unterweist eure Leute zu dem Thema. Dann spart man sich Ärger und Diskussionen.
 

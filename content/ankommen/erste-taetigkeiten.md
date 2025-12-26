@@ -6,10 +6,10 @@ weight: 3
 ---
 ## Türen auf
 
-Der Hüttenschlüssel liegt unterm Stein am Eingang. 
+Der Hüttenschlüssel ist in einem Schlüsselsafe mit Zahlencode neben der Tür - den Code gibts von den Hütterern.
 >Der Schlüssel ist abzuziehen und unter den Spiegel zu hängen
 
-{{<expander "Hüttenschlüssel" "/img/tueren-auf-stein.png">}}
+{{<expander "Hüttenschlüssel" "/img/schluesselkasten.jpeg">}}
 
 Die Türe zur Terrasse ist sofort aufzusperren. Der Schlüssel bleibt stecken.
 >Dies ist notwendig, um ggf. Fluchtwege sicherzustellen
@@ -27,17 +27,21 @@ Das Sicherstellen der Fluchtwege hat oberste Priorität, da das Verlassen der H�
 
 ## Licht an
 
+Der Sicherungskasten ist im Obergeschoss neben der Badezimmertür. Der Schlüssel zum Öffnen des Schaltschranks hängt außen oder liegt oben am Kasten.
+
 {{<expander "Schaltschrankschlüssel" "/img/licht-an-schluessel.jpg">}}
 
-Hauptschalter am Schaltschrank auf „1“
+Der Hauptschalter am Schaltschrank wird auf „1“ gestellt.
 
 {{<expander "Hauptschalter" "/img/licht-an-hauptschalter.png">}}
 
-Kurzer Blick in den Schrank wg. 220V Wandler > Sicherung 7 immer aus. Sonst sehr hoher Stromverbrauch.
+Zur Sicherheit: Ein kurzer Blick in den Schrank wg. 220V Wandler. Die Sicherung 7 muss immer aus sein. Sonst ist der Stromverbrauch sehr hoch.
 
 {{<expander "Sicherung 7" "/img/licht-an-sicherung-7.jpg">}}
 
-Lampenfreigabe auf „EIN“ und schauen, ob in jedem Zimmer das Licht ausgeschaltet ist.
+In der Stube links neben der Tür befindet sich oben an der Wand die Lampenfreigabe.
+
+Diese auf „EIN“ stellen und schauen, ob in jedem Zimmer das Licht ausgeschaltet ist.
 
 {{<expander "Lampenfreigabe" "/img/licht-an-lampenfreigabe.jpg">}}
 
@@ -72,21 +76,11 @@ Während der Sommermonate ist bei Ankunft normalerweise nur der Versorgungshahn 
 
 {{<expander "Versorgunghahn" "/img/wasser-marsch-versorgungshahn.png">}}
 
-Weiter ist der Wasserdruck und auch der Trogzulauf zu prüfen.
+Weiter ist der Wasserdruck zu prüfen.
 
 Das Manometer zeigt bei normalem Wasserdruck ca. 1,2 bar an. Bei Wasserentnahme sinkt der Druck vorrübergehend unter 1bar, sollte sich aber nach Beendigung der Entnahme wieder bei 1,2bar befinden.
 
 {{<expander "Wasserdruck" "/img/wasser-marsch-wasserdruck.jpg">}}
-
-Der Hahn für den Trogzulauf ist im Sommer normalerweise geöffnet. Wenn dies nicht der Fall ist, muss der Hahn bei Ankunft geöffnet werden. 
-
-Der Trogzulauf muss im Sommer für die Schafe in Betrieb sein. Auch das Bierkühlen ist im Trog wunderbar möglich. Der Zulauf ist mit dem Rändelhahn IM Trog zu regulieren. 
-
-Bitte nicht zu viel Wasser ablassen, da sonst der Vorratsbehälter an der Quelle leerläuft und ihr habt kein Wasser mehr.
-
-{{<expander "Trogzulauf" "/img/wasser-marsch-trogzulauf.jpg">}}
-
-Der Trog ist zu reinigen und der Ablaufstöpsel zu ziehen um den Trog-Ablauf von Verunreinigungen zu befreien.
 
 Normalerweise ist die Hütte vom Vorgänger nicht entleert worden und alle Hähne sind geschlossen. 
 
@@ -98,10 +92,6 @@ Prüft das, sonst haut euch das Wasser ab!
 2. Wasseraustritt an Spüle prüfen, dann Hahn zu
 3. Wasseraustritt am Waschbecken prüfen, dann Hahn zu
 4. Wasseraustritt in der Dusche prüfen, dann Hahn zu
-5. Trogzulaufhahn unter der Treppe geöffnet? Wenn nein dann öffnen
-6. Wasserhahn am Trog öffnen und Rostwasser weglaufen lassen, dann schließen
-7. Trogzulauf am Rändelventil im Trog einstellen
-8. Trog saubermachen und Sieb reinigen
 
 ### Winterbetrieb
 
@@ -115,7 +105,7 @@ Bitte beherzigt die beschriebene Vorgehensweise und weicht nicht davon ab.
 
 Es kann sonst zu Rohrbrüchen kommen, die immer einen großen Reparaturaufwand darstellen, natürlich Geld kosten und die Nutzbarkeit der Hütte im schlimmsten Fall für die gesamte Wintersaison unterbrechen.
 
-Ich erkläre an dieser Stelle Schritt für Schritt in Reihenfolge. Die Inbetriebnahme ist jetzt nicht die große Kunst. Trotzdem bitte Obacht!!
+Ich erkläre an dieser Stelle Schritt für Schritt in Reihenfolge. Die Inbetriebnahme ist jetzt nicht die große Kunst. Trotzdem bitte Obacht!
 
 Weiter hinten in der Hüttenbeschreibung werde ich dann für den interessierten Hüttenfahrer nochmal ganz ausführlich die Installation beschreiben, sodass auch klar wird wie die Sache funktioniert.
 
@@ -125,7 +115,7 @@ Weiter hinten in der Hüttenbeschreibung werde ich dann für den interessierten 
 {{<expander "Entleerungshahn unter Treppe" "/img/wasser-marsch-entleerung-unter-treppe.png">}}
 
 
-1. Entleerungshähne unter der Spüle schließen (zeigen nach rechts)
+2. Entleerungshähne unter der Spüle schließen (zeigen nach rechts)
 
 {{<expander "Entleerungshähne Spüle" "/img/wasser-marsch-spuele.png">}}
 
@@ -140,7 +130,7 @@ Weiter hinten in der Hüttenbeschreibung werde ich dann für den interessierten 
 
 {{<expander "Be- und Entlüftungshahn" "/img/wasser-marsch-ablufthahn.png">}}
 
-8. Anschließend, nachdem die eigentliche Inbetriebnahme Wasser abgeschlossen und alles befüllt ist, ist noch eine wichtige Prüfung/Einstellung zu erledigen. Dazu brauchts ein „Händchen“!! Das Bypassventil stellt sicher, dass immer Wasser durch die Versorgungsleitung fließt. Ansonsten friert die Versorgungsleitung ein. Bei der Kontrolle ist folgendermaßen vorzugehen:
+8. Anschließend, nachdem die eigentliche Inbetriebnahme Wasser abgeschlossen und alles befüllt ist, ist noch eine wichtige Prüfung/Einstellung zu erledigen. Dazu brauchts ein „Händchen“! Das Bypassventil stellt sicher, dass immer Wasser durch die Versorgungsleitung fließt. Ansonsten friert die Versorgungsleitung ein. Bei der Kontrolle ist folgendermaßen vorzugehen:
    - Bypassventil kurz weit öffnen (ca. ¼ Umdrehung gegen Uhrzeigersinn) Wasserdurchlauf sollte deutlich hörbar sein.
    - Bypassventil schließen (im Uhrzeigersinn) Wasserdurchlauf nicht mehr hörbar
    - Bypassventil einstellen: Dazu das Ventil sehr langsam öffnen und am Rädchen auf der Wasseruhr den Durchfluss ablesen. Das Rädchen sollte sich zwei U/min1 drehen und der Durchfluss ist leicht hörbar.
@@ -196,7 +186,7 @@ Die Gasflasche bei Inbetriebnahme entgegen Uhrzeigersinn am Ventilrad öffnen.
 
 Es muss nicht einmal eine halbe Umdrehung geöffnet werden, dies genügt vollkommen um den Gasherd bestens zu betreiben.
 
-Sollten beim Öffnen der Flasche ein anhaltendes Zischen oder Gasgeruch bemerkt werden ist die Flasche umgehend wieder zu schließen >> Gasleck!!!
+Sollten beim Öffnen der Flasche ein anhaltendes Zischen oder Gasgeruch bemerkt werden ist die Flasche umgehend wieder zu schließen >> Gasleck!
 
 **Flaschenwechsel:**
 
@@ -204,7 +194,7 @@ Den Flaschenwechsel bei leer gewordener Gasflasche muss bitte jemandem überlass
 
 Gasflasche ist vollständig zu entleeren und dann am Ventil im Uhrzeigersinn zu schließen.
 
-Das Druckregelventil ist an der Überwurfmutter von der Gasflasche zu trennen. Achtung Linksgewinde!!
+Das Druckregelventil ist an der Überwurfmutter von der Gasflasche zu trennen. Achtung Linksgewinde!
 
 Nach dem Anschließen der neuen Flasche ist auf Gasgeruch, Zischen usw. zu achten. 
 
@@ -223,20 +213,27 @@ Hisst bei eurer Ankunft die Fahne! Sie hängt normalerweise über einem Stuhl od
 
 ## Bettenbau
 
-
-Der Bettenbau ist ein hygienisches MUSS. Es möchte niemand in einem ranzigen Bett liegen, oder?
+Der Bettenbau ist ein hygienisches **MUSS**.
 
 Deshalb erfüllt die Pflicht:
-- Nehmt Bettwäsche mit auf die Hütte – UND BENUTZT DIESE AUCH!!!!
-- Für die Betten im OG sind Spannbettlacken 135 x 200, Kissenbezüge 80 x 80 und Bettbezüge 135 x 200 mitzubringen, fürs große Bett unten 200 x 200 Bettbezug und Laken. 
+
+- Bringt euch Bettwäsche (passende Spannbetttücher + Kissen- und Deckenbezüge) mit auf die Hütte
 - Es steht KEINE Bettwäsche auf der Hütte zu Verfügung. Wenn ihr nichts dabei habt, dann schlaft auf der Bank!
-- Im absoluten Ausnahmefall kann auch ein Schlafsack verwendet werden. Aber ohne unsere Hüttenkissen!!
-- Bitte bei noch undichten Kindern besondere Vorsicht walten lassen. Windeln an!!!
+- Im absoluten Ausnahmefall kann auch ein Schlafsack verwendet werden. Aber ohne unsere Hüttenkissen!
+- Bitte bei noch undichten Kindern besondere Vorsicht walten lassen. Windeln an und Inkontinenzauflagen drunter beziehen
 
 >Wenn irgendeine Sauerei mit den Betten passiert, ist es eure absolute Pflicht die Sache zu melden und euch darum zu kümmern, dass alles wieder in Ordnung kommt.
 
+Folgende Betten sind vorhanden:
+
+EG: 1 St. 160 x 200 Bett mit 2 x Decke und Kissen
+
+OG: 5 St. 90 x 200 Betten mit Decke und Kissen, 1 St. 140 x 200 Bett mit 2 x Decke und Kissen
+
+Zusätzlich gibts noch die Betten von den Hütterern, wenn ihr diese verwenden wollt, fragt bitte vorher.
 
 ## Einziehen
+
 ### Lebensmittellagerung
 
 Bei der Lebensmittellagerung sind ein paar Sachen zu beachten, da sonst die Hüttenmaus, der Hund, das Wiesel, der Frost oder die Wärme eure mitgebrachten Sachen zunichte macht.
@@ -251,26 +248,26 @@ Nicht zu kühlende Sachen bitte in den Schrank oder das Regal.
 
 Wenn es unbedingt sein muss, denn legt verderbliches in den Gaskühlschrank (s. [Gaskühlschrank](/wohnen/kuehlschrank)).
 
-„Vertuppert“ Reste und Offenes unbedingt sicher, da sonst die Fliegen Eier in eure Lebensmittel legen!!
+„Vertuppert“ Reste und Offenes unbedingt sicher, da sonst die Fliegen Eier in eure Lebensmittel legen!
 
 **Im Winter:**
 
 Im Winter ist es klar, dass draußen Gelagertes einfrieren kann. 
 
-Beim Lagern von eingeschweißten Sachen und auch Sachen die im Topf mit Deckel draußen stehen >> DENKT AN DEN HUND!!!
+Beim Lagern von eingeschweißten Sachen und auch Sachen die im Topf mit Deckel draußen stehen >> DENKT AN DEN HUND!
 
 
 ### Getränkelagerung
 
 Bei der Getränkelagerung sind ebenfalls ein paar Sachen zu beachten.
 
-Erst einmal werden keine unnötigen Müllquellen mitgenommen!  
-
->Also lasst euer Dosenbier daheim!! Nehmt Glaspfandflaschen!!
+Erst einmal werden keine unnötigen Müllquellen mitgenommen! Also lasst euer Dosenbier daheim! Nehmt Glaspfandflaschen!
 
 **Im Sommer:**
 
-Legt eure zu kühlenden Getränke in den Trog. Achtung! Tetrapacks weichen mit der Zeit auf!
+Legt eure zu kühlenden Getränke in den Trog. 
+
+>Achtung! Tetrapacks weichen mit der Zeit auf!
 
 Überfüllt den Trog nicht, da sonst die Kühlleistung nachlässt.
 

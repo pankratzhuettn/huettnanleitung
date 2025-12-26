@@ -6,10 +6,10 @@ draft: false
 ## Ankommen
 
 * Gleich mal die Bank räumen. Da stehen die Rucksäcke nicht im Baaaaz
-* EINE-R geht erstmal in die Hütte und hilft den Anderen bei der Rucksackübergabe. So bleibt der Dreck draußen
-* Zieht umgehen eure Pantoffel an -> Dreck
+* EINER geht erstmal in die Hütte und hilft den Anderen bei der Rucksackübergabe. So bleibt der Dreck draußen
+* Zieht umgehend eure Pantoffel an
 * Lasst von Anfang an Ordnung und Sauberkeit walten
-* Vereinbart VORHER wer die IBN vornimmt
+* Vereinbart VORHER wer die Inbetriebnahme vornimmt
 * Macht eure Zimmer sofort klar (Bett, Rucksäcke in die Zimmer, usw.)
 
 ## Wohnen

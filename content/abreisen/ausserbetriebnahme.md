@@ -40,7 +40,7 @@ Bitte beherzigt die beschriebene Vorgehensweise und weicht nicht davon ab.
 
 Es kann sonst zu Rohrbrüchen kommen, die immer einen großen Reparaturaufwand darstellen, natürlich Geld kosten und die Nutzbarkeit der Hütte im schlimmsten Fall für die gesamte Wintersaison unterbrechen.
 
-Ich erkläre an dieser Stelle Schritt für Schritt in Reihenfolge. Die Außerbetriebnahme ist die Königsdisziplin. Also bitte Obacht!!
+Ich erkläre an dieser Stelle Schritt für Schritt in Reihenfolge. Die Außerbetriebnahme ist die Königsdisziplin. Also bitte Obacht!
 
 Weiter hinten in der Hüttenbeschreibung werde ich dann für den interessierten Hüttenfahrer nochmal ganz ausführlich die Installation beschreiben, sodass auch klar wird wie die Sache funktioniert.
 
@@ -79,7 +79,7 @@ Die Wasserinstallation ist jetzt leer und es muss nur noch gesalzt werden.
 * Bitte darauf achten, dass für die Toilette noch ca. die Hälfte der Lake zur Verfügung steht.
 * Den Eimer wieder zurück an den Entleerungshahn hängen und sicherstellen, dass der Hahn geöffnet ist.
 
-Anschließend, nachdem die ABN Wasser abgeschlossen und alles entleert ist, ist noch eine wichtige Prüfung/ Einstellung zu erledigen. Dazu brauchts ein „Händchen“!!
+Anschließend, nachdem die ABN Wasser abgeschlossen und alles entleert ist, ist noch eine wichtige Prüfung/ Einstellung zu erledigen. Dazu brauchts ein „Händchen“!
 
 Kontrolle des Bypassventils und der Durchflussmenge - Das Bypassventil stellt sicher, dass immer Wasser durch die Versorgungsleitung fließt. Ansonsten friert die Versorgungsleitung ein.
 
@@ -103,7 +103,7 @@ Bei der Kontrolle ist folgendermaßen vorzugehen:
 9. Beide Hähne an der Spüle öffnen
 10. Entleerungshahn unter der Treppe öffnen (zeigt nach links)
 11. Alle Abflüsse mit Salzlake salzen
-12. Bypass kontrollieren!!
+12. Beipass kontrollieren!
 
 ## Gas
 
