@@ -10,10 +10,7 @@ weight: 8
 - Gelben Sack benutzen und den Müll trennen
 - Glasmüll ist zu separieren
 - Schmeißt keine Kippen in den Restmüll, da der Kübel dann über Wochen stinkt. Ja, auch mit Müllsack. Darum sammelt die Kippen in einem separaten Sack draußen.
-- Schmeißt keinen Biomüll in den Restmüllkübel. Der stinkt euch vor allem im Sommer die ganze Bude voll und zieht die Fliegen schier an. Lieber eine alte Schüssel draußen hinstellen mit dem Mist
-
-## Backofen
-Legt das Alublech unten in den Ofen, da sonst die Strahlungshitze eure Sachen verbrennt
+- Schmeißt keinen Biomüll in den Restmüllkübel. Der stinkt euch vor allem im Sommer die ganze Bude voll und zieht die Fliegen schier an. Lieber eine alte Schüssel draußen hinstellen
 
 ## Fliegenviecher
 
