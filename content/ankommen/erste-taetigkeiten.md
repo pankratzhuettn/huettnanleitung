@@ -233,6 +233,7 @@ OG: 5 St. 90 x 200 Betten mit Decke und Kissen, 1 St. 140 x 200 Bett mit 2 x Dec
 Zusätzlich gibts noch die Betten von den Hütterern, wenn ihr diese verwenden wollt, fragt bitte vorher.
 
 ## Einziehen
+
 ### Lebensmittellagerung
 
 Bei der Lebensmittellagerung sind ein paar Sachen zu beachten, da sonst die Hüttenmaus, der Hund, das Wiesel, der Frost oder die Wärme eure mitgebrachten Sachen zunichte macht.
