@@ -11,22 +11,9 @@ showToc: true
 
 Während der Sommermonate ist die ABN nicht schwer durchzuführen, sollte aber dennoch mit Sorgfalt erfolgen. Das Wasser verbleibt in der Wasserinstallation. Es wird zur Sicherheit nur der Versorgungshahn geschlossen und nur kurz ein Wasserhahn geöffnet um den Druck abzulassen.
 
-* Versorgungshahn schließen
-
 Das Manometer zeigt bei geschlossenem Versorgungshahn und nach Druckablassen 0 Bar an.
 
 {{<expander "Versorgungshahn schließen" "/img/versorgungshahn-schliessen.png">}}
-
-* Trogzulauf offenlassen
-
-Der Hahn für den Trogzulauf ist im Sommer immer geöffnet. Wenn dies nicht der Fall ist, muss der Hahn bei Abreise geöffnet werden. Der Trogzulauf muss im Sommer für die Schafe in Betrieb sein. Der Zulauf ist mit dem Rändelhahn IM Trog zu regulieren. Bitte nicht zu viel Wasser ablassen, da sonst der Vorratsbehälter an der Quelle leerläuft und die Nächsten kein Wasser haben.
-
-{{<expander "Trogzulauf offenlassen" "/img/trogzulauf-offenlassen.jpg">}}
-
-* Kurz Hahn am Spülbecken auf und wieder zu machen (Druck weglassen)
-* Wasserhahn am Trog öffnen und Wasseraustritt prüfen (Kommt Wasser?)
-* Trog saubermachen und Sieb reinigen
-* Trogzulauf am Rändelventil im Trog einstellen
 
 ### Winterbetrieb
 
