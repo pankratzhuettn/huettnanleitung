@@ -216,14 +216,21 @@ Hisst bei eurer Ankunft die Fahne! Sie hängt normalerweise über einem Stuhl od
 Der Bettenbau ist ein hygienisches **MUSS**.
 
 Deshalb erfüllt die Pflicht:
-- Nehmt Bettwäsche mit auf die Hütte – UND BENUTZT DIESE AUCH!!!!
-- Für die Betten im OG sind Spannbettlacken 135 x 200, Kissenbezüge 80 x 80 und Bettbezüge 135 x 200 mitzubringen, fürs große Bett unten 200 x 200 Bettbezug und Laken. 
+
+- Bringt euch Bettwäsche (passende Spannbetttücher + Kissen- und Deckenbezüge) mit auf die Hütte
 - Es steht KEINE Bettwäsche auf der Hütte zu Verfügung. Wenn ihr nichts dabei habt, dann schlaft auf der Bank!
-- Im absoluten Ausnahmefall kann auch ein Schlafsack verwendet werden. Aber ohne unsere Hüttenkissen!!
-- Bitte bei noch undichten Kindern besondere Vorsicht walten lassen. Windeln an!!!
+- Im absoluten Ausnahmefall kann auch ein Schlafsack verwendet werden. Aber ohne unsere Hüttenkissen!
+- Bitte bei noch undichten Kindern besondere Vorsicht walten lassen. Windeln an und Inkontinenzauflagen drunter beziehen
 
 >Wenn irgendeine Sauerei mit den Betten passiert, ist es eure absolute Pflicht die Sache zu melden und euch darum zu kümmern, dass alles wieder in Ordnung kommt.
 
+Folgende Betten sind vorhanden:
+
+EG: 1 St. 160 x 200 Bett mit 2 x Decke und Kissen
+
+OG: 5 St. 90 x 200 Betten mit Decke und Kissen, 1 St. 140 x 200 Bett mit 2 x Decke und Kissen
+
+Zusätzlich gibts noch die Betten von den Hütterern, wenn ihr diese verwenden wollt, fragt bitte vorher.
 
 ## Einziehen
 ### Lebensmittellagerung
