@@ -18,8 +18,5 @@ Legt das Alublech unten in den Ofen, da sonst die Strahlungshitze eure Sachen ve
 ## Fliegenviecher
 Wenn ihr Reste in Töpfen lagert, dann dichtet die Töpfe mit Alufolie ab. Die Fliegen legen gerne ihre Eier in den Topfdeckelrand. Spült nach dem Essen immer gleich ab und vermeidet Reste offen stehen zu lassen. Auch Gläser.
 
-## Wasserverbrauch
-Wenn mal die ganze Mannschaft duschen muss, dann schließt den Trogzulauf am Besten 1 Std. vorher schon. So geht euch das Wasser nicht aus. Danach wieder öffnen!
-
 ## Stromverbrauch
 Weist eure Leute darauf hin kein Licht brennen zu lassen und unnötige Ladeaktionen zu vermeiden.

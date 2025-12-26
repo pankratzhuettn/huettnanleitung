@@ -72,21 +72,11 @@ Während der Sommermonate ist bei Ankunft normalerweise nur der Versorgungshahn 
 
 {{<expander "Versorgunghahn" "/img/wasser-marsch-versorgungshahn.png">}}
 
-Weiter ist der Wasserdruck und auch der Trogzulauf zu prüfen.
+Weiter ist der Wasserdruck zu prüfen.
 
 Das Manometer zeigt bei normalem Wasserdruck ca. 1,2 bar an. Bei Wasserentnahme sinkt der Druck vorrübergehend unter 1bar, sollte sich aber nach Beendigung der Entnahme wieder bei 1,2bar befinden.
 
 {{<expander "Wasserdruck" "/img/wasser-marsch-wasserdruck.jpg">}}
-
-Der Hahn für den Trogzulauf ist im Sommer normalerweise geöffnet. Wenn dies nicht der Fall ist, muss der Hahn bei Ankunft geöffnet werden. 
-
-Der Trogzulauf muss im Sommer für die Schafe in Betrieb sein. Auch das Bierkühlen ist im Trog wunderbar möglich. Der Zulauf ist mit dem Rändelhahn IM Trog zu regulieren. 
-
-Bitte nicht zu viel Wasser ablassen, da sonst der Vorratsbehälter an der Quelle leerläuft und ihr habt kein Wasser mehr.
-
-{{<expander "Trogzulauf" "/img/wasser-marsch-trogzulauf.jpg">}}
-
-Der Trog ist zu reinigen und der Ablaufstöpsel zu ziehen um den Trog-Ablauf von Verunreinigungen zu befreien.
 
 Normalerweise ist die Hütte vom Vorgänger nicht entleert worden und alle Hähne sind geschlossen. 
 
@@ -98,10 +88,6 @@ Prüft das, sonst haut euch das Wasser ab!
 2. Wasseraustritt an Spüle prüfen, dann Hahn zu
 3. Wasseraustritt am Waschbecken prüfen, dann Hahn zu
 4. Wasseraustritt in der Dusche prüfen, dann Hahn zu
-5. Trogzulaufhahn unter der Treppe geöffnet? Wenn nein dann öffnen
-6. Wasserhahn am Trog öffnen und Rostwasser weglaufen lassen, dann schließen
-7. Trogzulauf am Rändelventil im Trog einstellen
-8. Trog saubermachen und Sieb reinigen
 
 ### Winterbetrieb
 
