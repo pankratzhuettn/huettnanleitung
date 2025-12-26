@@ -27,17 +27,21 @@ Das Sicherstellen der Fluchtwege hat oberste Priorität, da das Verlassen der H�
 
 ## Licht an
 
+Der Sicherungskasten ist im Obergeschoss neben der Badezimmertür. Der Schlüssel zum Öffnen des Schaltschranks hängt außen oder liegt oben am Kasten.
+
 {{<expander "Schaltschrankschlüssel" "/img/licht-an-schluessel.jpg">}}
 
-Hauptschalter am Schaltschrank auf „1“
+Der Hauptschalter am Schaltschrank wird auf „1“ gestellt.
 
 {{<expander "Hauptschalter" "/img/licht-an-hauptschalter.png">}}
 
-Kurzer Blick in den Schrank wg. 220V Wandler > Sicherung 7 immer aus. Sonst sehr hoher Stromverbrauch.
+Zur Sicherheit: Ein kurzer Blick in den Schrank wg. 220V Wandler. Die Sicherung 7 muss immer aus sein. Sonst ist der Stromverbrauch sehr hoch.
 
 {{<expander "Sicherung 7" "/img/licht-an-sicherung-7.jpg">}}
 
-Lampenfreigabe auf „EIN“ und schauen, ob in jedem Zimmer das Licht ausgeschaltet ist.
+In der Stube links neben der Tür befindet sich oben an der Wand die Lampenfreigabe.
+
+Diese auf „EIN“ stellen und schauen, ob in jedem Zimmer das Licht ausgeschaltet ist.
 
 {{<expander "Lampenfreigabe" "/img/licht-an-lampenfreigabe.jpg">}}
 
