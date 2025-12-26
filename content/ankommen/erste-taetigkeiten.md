@@ -111,7 +111,7 @@ Weiter hinten in der Hüttenbeschreibung werde ich dann für den interessierten 
 {{<expander "Entleerungshahn unter Treppe" "/img/wasser-marsch-entleerung-unter-treppe.png">}}
 
 
-1. Entleerungshähne unter der Spüle schließen (zeigen nach rechts)
+2. Entleerungshähne unter der Spüle schließen (zeigen nach rechts)
 
 {{<expander "Entleerungshähne Spüle" "/img/wasser-marsch-spuele.png">}}
 
@@ -126,7 +126,7 @@ Weiter hinten in der Hüttenbeschreibung werde ich dann für den interessierten 
 
 {{<expander "Be- und Entlüftungshahn" "/img/wasser-marsch-ablufthahn.png">}}
 
-8. Anschließend, nachdem die eigentliche Inbetriebnahme Wasser abgeschlossen und alles befüllt ist, ist noch eine wichtige Prüfung/Einstellung zu erledigen. Dazu brauchts ein „Händchen“!! Das Bypassventil stellt sicher, dass immer Wasser durch die Versorgungsleitung fließt. Ansonsten friert die Versorgungsleitung ein. Bei der Kontrolle ist folgendermaßen vorzugehen:
+8. Anschließend, nachdem die eigentliche Inbetriebnahme Wasser abgeschlossen und alles befüllt ist, ist noch eine wichtige Prüfung/Einstellung zu erledigen. Dazu brauchts ein „Händchen“! Das Bypassventil stellt sicher, dass immer Wasser durch die Versorgungsleitung fließt. Ansonsten friert die Versorgungsleitung ein. Bei der Kontrolle ist folgendermaßen vorzugehen:
    - Bypassventil kurz weit öffnen (ca. ¼ Umdrehung gegen Uhrzeigersinn) Wasserdurchlauf sollte deutlich hörbar sein.
    - Bypassventil schließen (im Uhrzeigersinn) Wasserdurchlauf nicht mehr hörbar
    - Bypassventil einstellen: Dazu das Ventil sehr langsam öffnen und am Rädchen auf der Wasseruhr den Durchfluss ablesen. Das Rädchen sollte sich zwei U/min1 drehen und der Durchfluss ist leicht hörbar.
@@ -209,8 +209,7 @@ Hisst bei eurer Ankunft die Fahne! Sie hängt normalerweise über einem Stuhl od
 
 ## Bettenbau
 
-
-Der Bettenbau ist ein hygienisches MUSS. Es möchte niemand in einem ranzigen Bett liegen, oder?
+Der Bettenbau ist ein hygienisches **MUSS**.
 
 Deshalb erfüllt die Pflicht:
 - Nehmt Bettwäsche mit auf die Hütte – UND BENUTZT DIESE AUCH!!!!
