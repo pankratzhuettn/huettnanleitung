@@ -10,7 +10,7 @@ Damit die Schafe uns nicht alles vollscheißen, ist ein Zaun um die Hütte angeb
 
 Sie sind teuer ( 5.000€/ Schaf und 20.000€/ Widder)
 
-Weiter ist auch ein gewisses Verletzungsrisiko gegeben. Eltern haften hier für ihre Kinder. Nicht WIR und auch nicht der BAUER!! Also lasst die Viecher in Ruhe!! Sie gehören euch nicht und ihr wisst nicht wie sie reagieren.
+Weiter ist auch ein gewisses Verletzungsrisiko gegeben. Eltern haften hier für ihre Kinder. Nicht WIR und auch nicht der BAUER! Also lasst die Viecher in Ruhe! Sie gehören euch nicht und ihr wisst nicht wie sie reagieren.
 
 Es ist ein Wolfszaun zum Schutz der Schafe seit einiger Zeit Pflicht in Tirol. Lasst diesen Zaun niemals offenstehen!
 

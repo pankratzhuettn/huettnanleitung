@@ -16,6 +16,6 @@ Mia woin eich wirkle a Hilfestellung gem und eich ned bevormunden. Lests eich de
 
 Es werd eftas amoi von am Hutträger gschrim. Do is der gmoand, der wo as Song hod wennts om af da Hüttn seits. Logisch oda?
 
-So, etz redma nimma lang rum sondan wünsch ma eich a scheene Zeit af da Pankrazhüttn!!
+So, etz redma nimma lang rum sondan wünsch ma eich a scheene Zeit af da Pankrazhüttn!
 
 Sabine, Rudi und Fuppi im Jahre 2022

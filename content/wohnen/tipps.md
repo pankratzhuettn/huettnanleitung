@@ -6,7 +6,7 @@ weight: 8
 
 ## Müll
 
-- Vermeidung ist das A und O (Kein Dosenbier, Kein „Packlzeug“!!)
+- Vermeidung ist das A und O (Kein Dosenbier, Kein „Packlzeug“!)
 - Gelben Sack benutzen und den Müll trennen
 - Glasmüll ist zu separieren
 - Schmeißt keine Kippen in den Restmüll, da der Kübel dann über Wochen stinkt. Ja, auch mit Müllsack. Darum sammelt die Kippen in einem separaten Sack draußen.

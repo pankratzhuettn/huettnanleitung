@@ -115,7 +115,7 @@ Bitte beherzigt die beschriebene Vorgehensweise und weicht nicht davon ab.
 
 Es kann sonst zu Rohrbrüchen kommen, die immer einen großen Reparaturaufwand darstellen, natürlich Geld kosten und die Nutzbarkeit der Hütte im schlimmsten Fall für die gesamte Wintersaison unterbrechen.
 
-Ich erkläre an dieser Stelle Schritt für Schritt in Reihenfolge. Die Inbetriebnahme ist jetzt nicht die große Kunst. Trotzdem bitte Obacht!!
+Ich erkläre an dieser Stelle Schritt für Schritt in Reihenfolge. Die Inbetriebnahme ist jetzt nicht die große Kunst. Trotzdem bitte Obacht!
 
 Weiter hinten in der Hüttenbeschreibung werde ich dann für den interessierten Hüttenfahrer nochmal ganz ausführlich die Installation beschreiben, sodass auch klar wird wie die Sache funktioniert.
 
@@ -196,7 +196,7 @@ Die Gasflasche bei Inbetriebnahme entgegen Uhrzeigersinn am Ventilrad öffnen.
 
 Es muss nicht einmal eine halbe Umdrehung geöffnet werden, dies genügt vollkommen um den Gasherd bestens zu betreiben.
 
-Sollten beim Öffnen der Flasche ein anhaltendes Zischen oder Gasgeruch bemerkt werden ist die Flasche umgehend wieder zu schließen >> Gasleck!!!
+Sollten beim Öffnen der Flasche ein anhaltendes Zischen oder Gasgeruch bemerkt werden ist die Flasche umgehend wieder zu schließen >> Gasleck!
 
 **Flaschenwechsel:**
 
@@ -204,7 +204,7 @@ Den Flaschenwechsel bei leer gewordener Gasflasche muss bitte jemandem überlass
 
 Gasflasche ist vollständig zu entleeren und dann am Ventil im Uhrzeigersinn zu schließen.
 
-Das Druckregelventil ist an der Überwurfmutter von der Gasflasche zu trennen. Achtung Linksgewinde!!
+Das Druckregelventil ist an der Überwurfmutter von der Gasflasche zu trennen. Achtung Linksgewinde!
 
 Nach dem Anschließen der neuen Flasche ist auf Gasgeruch, Zischen usw. zu achten. 
 
@@ -251,22 +251,20 @@ Nicht zu kühlende Sachen bitte in den Schrank oder das Regal.
 
 Wenn es unbedingt sein muss, denn legt verderbliches in den Gaskühlschrank (s. [Gaskühlschrank](/wohnen/kuehlschrank)).
 
-„Vertuppert“ Reste und Offenes unbedingt sicher, da sonst die Fliegen Eier in eure Lebensmittel legen!!
+„Vertuppert“ Reste und Offenes unbedingt sicher, da sonst die Fliegen Eier in eure Lebensmittel legen!
 
 **Im Winter:**
 
 Im Winter ist es klar, dass draußen Gelagertes einfrieren kann. 
 
-Beim Lagern von eingeschweißten Sachen und auch Sachen die im Topf mit Deckel draußen stehen >> DENKT AN DEN HUND!!!
+Beim Lagern von eingeschweißten Sachen und auch Sachen die im Topf mit Deckel draußen stehen >> DENKT AN DEN HUND!
 
 
 ### Getränkelagerung
 
 Bei der Getränkelagerung sind ebenfalls ein paar Sachen zu beachten.
 
-Erst einmal werden keine unnötigen Müllquellen mitgenommen!  
-
->Also lasst euer Dosenbier daheim!! Nehmt Glaspfandflaschen!!
+Erst einmal werden keine unnötigen Müllquellen mitgenommen! Also lasst euer Dosenbier daheim! Nehmt Glaspfandflaschen!
 
 **Im Sommer:**
 
